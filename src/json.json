@@ -1,0 +1,137 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the movie &ldquo;The Iron Giant,&rdquo; this character is the protagonist.",
+            "correct_answer": "Hogarth Hughes",
+            "incorrect_answers": [
+                "Kent Mansley",
+                "Dean McCoppin",
+                "Annie Hughes"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who played the female lead in the 1933 film &quot;King Kong&quot;?",
+            "correct_answer": "Fay Wray",
+            "incorrect_answers": [
+                "Jean Harlow",
+                "Vivien Leigh",
+                "Mae West"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What did Alfred Hitchcock use as blood in the film &quot;Psycho&quot;? ",
+            "correct_answer": "Chocolate syrup",
+            "incorrect_answers": [
+                "Ketchup",
+                "Red food coloring",
+                "Maple syrup"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "This movie contains the quote, &quot;Houston, we have a problem.&quot;",
+            "correct_answer": "Apollo 13",
+            "incorrect_answers": [
+                "The Right Stuff",
+                "Capricorn One",
+                "Marooned"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "This movie contains the quote, &quot;Nobody puts Baby in a corner.&quot;",
+            "correct_answer": "Dirty Dancing",
+            "incorrect_answers": [
+                "Three Men and a Baby",
+                "Ferris Bueller&#039;s Day Off",
+                "Pretty in Pink"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which iconic character is featured in movies such as &quot;The Enforcer&quot;, &quot;Sudden Impact&quot;, and &quot;The Dead Pool&quot;?",
+            "correct_answer": "Dirty Harry",
+            "incorrect_answers": [
+                "Indiana Jones",
+                "James Bond",
+                "Harry Potter"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Jurassic World&quot;, which company purchases InGen and creates Jurassic World?",
+            "correct_answer": "Masrani Global Corporation ",
+            "incorrect_answers": [
+                "Biology Synthetics Technologies",
+                "International Genetics Incorporated",
+                "International Genetic Technologies"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the species of the &quot;Predator&quot; in the 1987 movie &quot;Predator&quot;?",
+            "correct_answer": "Yautja",
+            "incorrect_answers": [
+                "Xenomorph",
+                "Praetorian",
+                "Phocrex"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the queen&#039;s pet in A Bug&#039;s Life?",
+            "correct_answer": "Aphie",
+            "incorrect_answers": [
+                "Flik",
+                "Hopper",
+                "Dot"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "About how much money did it cost for Tommy Wiseau to make his masterpiece &quot;The Room&quot; (2003)?",
+            "correct_answer": "$6 Million",
+            "incorrect_answers": [
+                "$20,000",
+                "$1 Million",
+                "$10 Million"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The 1996 film &#039;Fargo&#039; is primarily set in which US state?",
+            "correct_answer": "Minnesota",
+            "incorrect_answers": [
+                "North Dakota",
+                "South Dakota",
+                "Wisconsin"
+            ]
+        }
+    ]
+}
